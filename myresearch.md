@@ -25,6 +25,9 @@ The extracted meshes are used in **finite element method (FEM) simulations**, wh
 ## Applications:
 
 **Risk Assessment:** Evaluating the risk of aneurysm rupture through detailed hemodynamic analysis.
+
 **Pathology Analysis:** Investigating vascular malformations, including stenoses and arteriovenous fistulas.
+
 **Clinical Translation:** Supporting personalized treatment planning and pre-surgical evaluations by providing detailed, patient-specific hemodynamic insights.
+
 **Impact:** This research bridges the gap between cutting-edge imaging technology and clinical practice, offering innovative approaches to diagnose, monitor, and treat cerebrovascular diseases. By providing detailed hemodynamic profiles, my work contributes to more accurate risk stratification and improved patient outcomes.
