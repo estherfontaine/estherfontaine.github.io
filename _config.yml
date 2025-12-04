@@ -140,16 +140,28 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#1e002a"
-link-col: "#4B0082" #Indigo
-hover-col: "#9400D3" #DarkViolet
-navbar-col: "#E6E6FA" #lavender
-navbar-text-col: "#4B0082" #Indigo
+text-col: "#E6E6FA" #lavender
+link-col: "#DDA0DD" #plum
+hover-col: "#DDA0DD" #plum
+navbar-col: "#4B0082" #Indigo
+navbar-text-col: "#E6E6FA" #lavender
 navbar-border-col: "#DDDDDD"
-footer-col: "#E6E6FA" #lavender
-footer-text-col: "#4B0082" #Indigo
-footer-link-col: "#4B0082" #Indigo
-footer-hover-col: "#9400D3" #DarkViolet
+footer-col: "#4B0082" #Indigo
+footer-text-col: "#E6E6FA" #lavender
+footer-link-col: "#E6E6FA" #lavender
+footer-hover-col: "#DDA0DD" #plum
+
+#page-col: "#FFFFFF"
+#text-col: "#1e002a"
+#link-col: "#4B0082" #Indigo
+#hover-col: "#9400D3" #DarkViolet
+#navbar-col: "#E6E6FA" #lavender
+#navbar-text-col: "#4B0082" #Indigo
+#navbar-border-col: "#DDDDDD"
+#footer-col: "#E6E6FA" #lavender
+#footer-text-col: "#4B0082" #Indigo
+#footer-link-col: "#4B0082" #Indigo
+#footer-hover-col: "#9400D3" #DarkViolet
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
