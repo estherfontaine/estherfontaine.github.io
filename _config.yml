@@ -20,7 +20,10 @@ author: Esther Fontaine
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About me: "aboutme"
+  My research: "myresearch"
+  My publications: "mypublications"
+  My teaching: "myteaching"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
