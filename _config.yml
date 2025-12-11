@@ -143,10 +143,10 @@ page-col: "#FFFFFF"
 text-col: "#440060" #very dark violet
 link-col: "#DDA0DD" #plum
 hover-col: "#DDA0DD" #plum
-navbar-col: "#4B0082" #Indigo
+navbar-col: "#663399" #Rebecca purple
 navbar-text-col: "#E6E6FA" #lavender
 navbar-border-col: "#4B0082"
-footer-col: "#4B0082" #Indigo
+footer-col: "#663399" #Rebecca Purple
 footer-text-col: "#E6E6FA" #lavender
 footer-link-col: "#E6E6FA" #lavender
 footer-hover-col: "#DDA0DD" #plum
