@@ -9,6 +9,7 @@ title: My communications
 
 ## Conferences and seminars
 
+- Esther Fontaine, Nicolas Passat, Stéphanie Salmon, Antoine Mendes-Carreira, Christophe Portefaix. **3T MRI 4D flow sequence acquisition time reduction on a vascular phantom.** *International Symposium on Biomedical Imaging (ISBI)*, April 2026, London, United Kingdom. [⟨hal-05122463v2⟩](https://hal.science/hal-05122463)
 - Esther Fontaine, Guillaume Dollé, Nicolas Passat, Stéphanie Salmon, Christophe Portefaix. **Hemodynamic Modeling of Cerebral Aneurysms: Coupling 4D Flow MRI and Finite Element Simulations.** *17th FreeFEM Days*, Laboratoire Jacques-Louis Lions (LJLL), Sorbonne Université, Dec 2025, Paris, France. [⟨hal-05425857⟩](https://hal.science/hal-05425857)
 - Esther Fontaine, Stéphanie Salmon, Guillaume Dollé, Nicolas Passat, Christophe Portefaix. **Comparaison d'une séquence IRM de flux 4D et de la simulation numérique pour l'étude hémodynamique des anévrismes intracrâniens.** *Congrès de la Société de Mathématiques Appliquées et Industrielles (SMAI), Société des Mathématiques Appliquées et Industrielles*, June 2025, Carcans Maubuisson, France. [⟨hal-05097600⟩](https://hal.science/hal-05097600)
 - Esther Fontaine, Nicolas Passat, Stéphanie Salmon, Christophe Portefaix. **Optimisation du temps d'acquisition de la séquence de flux 4D en IRM 3T pour l'imagerie de vaisseaux cérébraux.** *Journée thématique Imagerie vasculaire (GdR IASIS)*, May 2025, Paris, France. [⟨hal-05065319⟩](https://hal.science/hal-05065319)
