@@ -24,5 +24,6 @@ title: My communications
 
 ## Scientific vulgarisation
 
+- Esther Fontaine, **Les mathématiques au coeur de la médecine.** *Mathematic week*, April 2026, Rethel, France.
 - Esther Fontaine, **Les mathématiques au coeur de la médecine.** *Award ceremony for the 2024 Mathematics and Geosciences Olympiad*, November 2025, Reims, France.
 - Esther Fontaine, Nicolas Passat, Stéphanie Salmon, Christophe Portefaix. **Vers une comparaison entre l'IRM 4D de flux et la simulation numérique pour la prédiction de l'évolution des anévrismes intracrâniens.** *CReSTIC Company meeting*, April 2025, Reims, France.
