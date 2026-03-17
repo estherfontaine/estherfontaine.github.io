@@ -19,6 +19,7 @@ title: My communications
 
 ## Laboratory seminars
 
+- Esther Fontaine, Guillaume Dollé, Nicolas Passat, Stéphanie Salmon, Christophe Portefaix. **Hemodynamic Modeling of Cerebral Aneurysms: Coupling 4D Flow MRI and Finite Element Simulations.** *LMR young researchers seminar*, January 2026, Reims, France.
 - Esther Fontaine, Nicolas Passat, Stéphanie Salmon, Christophe Portefaix. **Vers une comparaison entre l'IRM 4D de flux et la simulation numérique pour la prédiction de l'évolution des anévrismes intracrâniens.** *CReSTIC team meeting*, January 2025, Reims, France.
 - Esther Fontaine, Nicolas Passat, Stéphanie Salmon, Christophe Portefaix. **Vers une comparaison entre l'IRM 4D de flux et la simulation numérique pour la prédiction de l'évolution des anévrismes intracrâniens.** *LMR young researchers seminar*, July 2024, Reims, France.
 
